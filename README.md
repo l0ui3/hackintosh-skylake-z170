@@ -1,6 +1,11 @@
 # hackintosh-skylake-z170
 Hackintosh builds for Skylake
 
+If you have the exact same build as mine, you may just copy the EFI and modify **PlatformInfo** ([how to modify](https://dortania.github.io/OpenCore-Install-Guide/config.plist/skylake.html#platforminfo)), then everything should be working.
+
+Otherwise, please follow the official OpenCore Guide.
+
+
 ## Specs
 
 | Type        | Item                       |
